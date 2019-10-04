@@ -1,2 +1,2 @@
-# DataAnalysis_CHD
-Data analysis of a dataset that contains information about CHD.
+# Keras: Regression with Neural Networks
+Project that performs the regression of a continuous variable (oil) from a set of associated variables. The Keras framework is used to easily create a TensorFlow Neural Network.
