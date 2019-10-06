@@ -5,6 +5,7 @@ Project that performs the regression of a continuous variable (oil) from a set o
 
 ``` console
     conda install -c conda-forge keras
+    conda install -c anaconda pydot
 ```
 
 ## Contributing and Feedback
