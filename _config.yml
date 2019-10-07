@@ -1,2 +1,3 @@
 title: NN model to predict Oil production
+description: Project that performs the regression of a continuous variable (oil) from a set of associated variables using a NN model
 theme: jekyll-theme-cayman
