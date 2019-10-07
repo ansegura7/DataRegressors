@@ -1,9 +1,29 @@
 # Keras: Regression with Neural Networks
 Project that performs the regression of a continuous variable (oil) from a set of associated variables. The Keras framework is used to easily create a TensorFlow Neural Network.
 
+## Analysis
+<details>
+<summary>1. <a href="https://ansegura7.github.io/Keras_RegressionNN/pages/DataProfiling" target="_blank" >Data Profilin</a></summary>
+<ul>
+	<li>Data Exploration</li>
+	<li>Descriptive Statistics</li>
+	<li>Data Profiling</li>
+</ul>
+</details>
+<details open>
+<summary>2. <a href="https://ansegura7.github.io/Keras_RegressionNN/pages/RegressionNN" target="_blank" >NN Regression with Keras</a></summary>
+<ul>
+	<li>Load and show datas</li>
+	<li>Prepare the data to Learn</li>
+	<li>Create Train/Validation/Test datasets</li>
+    <li>Train Model</li>
+    <li>Make predictions and calculate error</li>
+    <li>Plot Results</li>
+</ul>
+</details>
+
 # Data
 The dataset used is made up of a group of operational and PVT variables for oil wells.
-
 
 | # | Variable | Type | Unit | Data Type |
 |---|---|---|---|---|
@@ -14,7 +34,7 @@ The dataset used is made up of a group of operational and PVT variables for oil 
 | 5 | THP | Operational | psi | Numerical |
 | 6 | Temp | Operational | Fahrenheit  | Numerical |
 | 7 | Choke | Operational | inches | Numerical |
-| 8 | Qinj | Operational | m3 | Numerical |
+| 8 | Qinj | Operational | Mscf | Numerical |
 | 9 | Bo | PVT |  | Numerical |
 | 10 | Zed | PVT |  | Numerical |
 | 11 | SpgO | PVT |  | Numerical |
