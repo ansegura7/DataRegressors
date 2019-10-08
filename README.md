@@ -1,5 +1,5 @@
 # Keras: Regression with Neural Networks
-Project that performs the regression of a continuous variable (oil) from a set of associated variables using a NN model. The Keras framework is used to easily create a TensorFlow Neural Network.
+Project that performs the regression of a continuous variable (oil) from a set of associated variables using a NN model. The Keras framework is used to easily create a TensorFlow Neural Network and make predictions.
 
 ## Analysis
 <details>
