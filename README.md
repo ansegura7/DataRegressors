@@ -2,7 +2,7 @@
 Project that performs the regression of a continuous variable (oil rate) from a set of associated variables using a NN model. The Keras framework is used to easily create a TensorFlow Neural Network and make the predictions.
 
 ## Analysis
-<details>
+<details open>
 <summary>1. <a href="https://ansegura7.github.io/Keras_RegressionNN/pages/DataProfiling" target="_blank" >Data Profiling</a></summary>
 <ul>
 	<li>Data Exploration</li>
