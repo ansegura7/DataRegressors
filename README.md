@@ -21,6 +21,17 @@ Project that performs the regression of a continuous variable (oil rate) from a 
     <li>Plot Results</li>
 </ul>
 </details>
+<details open>
+<summary>3. <a href="https://ansegura7.github.io/Keras_RegressionNN/pages/TimeSeries" target="_blank" >Time Series</a></summary>
+<ul>
+	<li>Visual Analytics</li>
+	<li>Base Line</li>
+	<li>Time Series Analysis</li>
+    <li>Box-Jenkins Analysis</li>
+    <li>Holt-Winters Analysis</li>
+    <li>Compare Models</li>
+</ul>
+</details>
 
 # Data
 The dataset used is composed of a group a group of operational and PVT variables for oil wells.
