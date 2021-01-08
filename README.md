@@ -1,5 +1,5 @@
-# Keras: Regression with Neural Networks
-Project that performs the regression of a continuous variable (oil rate) from a set of associated variables using a NN model. The Keras framework is used to easily create a TensorFlow Neural Network and make the predictions.
+# Regression with Time Series and Neural Networks
+Project that performs the regression of a continuous variable (oil rate) from a set of associated variables using ML and DL models. The Keras framework is used to easily create a TensorFlow Neural Network and make the predictions.
 
 ## Analysis
 <details open>
@@ -11,7 +11,17 @@ Project that performs the regression of a continuous variable (oil rate) from a 
 </ul>
 </details>
 <details open>
-<summary>2. <a href="https://ansegura7.github.io/Keras_RegressionNN/pages/RegressionNN" target="_blank" >NN Regression with Keras</a></summary>
+<summary>2. <a href="https://ansegura7.github.io/Keras_RegressionNN/pages/TimeSeries" target="_blank" >Time Series</a></summary>
+<ul>
+	<li>Visual Analytics</li>
+	<li>Base Line</li>
+	<li>Time Series Analysis</li>
+    <li>Box-Jenkins Analysis</li>
+    <li>Holt-Winters Analysis</li>
+    <li>Compare Models</li>
+</ul>
+<details open>
+<summary>3. <a href="https://ansegura7.github.io/Keras_RegressionNN/pages/RegressionNN" target="_blank" >NN Regression with Keras</a></summary>
 <ul>
 	<li>Load and show datas</li>
 	<li>Prepare the data to Learn</li>
@@ -21,19 +31,9 @@ Project that performs the regression of a continuous variable (oil rate) from a 
     <li>Plot Results</li>
 </ul>
 </details>
-<details open>
-<summary>3. <a href="https://ansegura7.github.io/Keras_RegressionNN/pages/TimeSeries" target="_blank" >Time Series</a></summary>
-<ul>
-	<li>Visual Analytics</li>
-	<li>Base Line</li>
-	<li>Time Series Analysis</li>
-    <li>Box-Jenkins Analysis</li>
-    <li>Holt-Winters Analysis</li>
-    <li>Compare Models</li>
-</ul>
 </details>
 
-# Data
+## Data
 The dataset used is composed of a group a group of operational and PVT variables for oil wells.
 
 | # | Variable | Type | Unit | Data Type |
@@ -68,6 +68,7 @@ Any kind of feedback/criticism would be greatly appreciated (algorithm design, d
 ## Authors
 - Created by Segura Tinoco, Andrés
 - Created on Oct 4, 2019
+- Updated on Jan 8, 2021
 
 ## License
 This project is licensed under the terms of the MIT license.
