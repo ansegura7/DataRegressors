@@ -3,7 +3,7 @@ Project that performs the regression of a continuous variable (oil rate) from a 
 
 ## Analysis
 <details open>
-<summary>1. <a href="https://ansegura7.github.io/Keras_RegressionNN/pages/DataProfiling" target="_blank" >Data Profiling</a></summary>
+<summary>1. <a href="https://ansegura7.github.io/DataRegressionNN/pages/DataProfiling" target="_blank" >Data Profiling</a></summary>
 <ul>
 	<li>Data Exploration</li>
 	<li>Descriptive Statistics</li>
@@ -11,7 +11,7 @@ Project that performs the regression of a continuous variable (oil rate) from a 
 </ul>
 </details>
 <details open>
-<summary>2. <a href="https://ansegura7.github.io/Keras_RegressionNN/pages/TimeSeries" target="_blank" >Time Series</a></summary>
+<summary>2. <a href="https://ansegura7.github.io/DataRegressionNN/pages/TimeSeries" target="_blank" >Time Series</a></summary>
 <ul>
 	<li>Visual Analytics</li>
 	<li>Base Line</li>
@@ -20,10 +20,11 @@ Project that performs the regression of a continuous variable (oil rate) from a 
     <li>Holt-Winters Analysis</li>
     <li>Compare Models</li>
 </ul>
+</details>
 <details open>
-<summary>3. <a href="https://ansegura7.github.io/Keras_RegressionNN/pages/RegressionNN" target="_blank" >NN Regression with Keras</a></summary>
+<summary>3. <a href="https://ansegura7.github.io/DataRegressionNN/pages/RegressionNN" target="_blank" >NN Regression</a></summary>
 <ul>
-	<li>Load and show datas</li>
+	<li>Load and show data</li>
 	<li>Prepare the data to Learn</li>
 	<li>Create Train/Validation/Test datasets</li>
     <li>Train Model</li>
@@ -31,6 +32,11 @@ Project that performs the regression of a continuous variable (oil rate) from a 
     <li>Plot Results</li>
 </ul>
 </details>
+<details open>
+<summary>4. <a href="https://ansegura7.github.io/DataRegressionNN/pages/RegressionLSTM" target="_blank" >LSTM Regression</a></summary>
+<ul>
+	<li>Quick example</li>
+</ul>
 </details>
 
 ## Data
