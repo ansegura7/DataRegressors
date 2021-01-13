@@ -3,7 +3,7 @@ Project that performs the regression of a continuous variable (oil rate) from a 
 
 ## Analysis
 <details open>
-<summary>1. <a href="https://ansegura7.github.io/DataRegressionNN/pages/DataProfiling" target="_blank" >Data Profiling</a></summary>
+<summary>1. <a href="https://ansegura7.github.io/DataRegressionNN/pages/DataProfiling" target="_blank" >Data Exploration and Profiling</a></summary>
 <ul>
 	<li>Data Exploration</li>
 	<li>Descriptive Statistics</li>
@@ -62,10 +62,12 @@ The dataset used is composed of a group a group of operational and PVT variables
 | 16 | Test_Oil | Well Test | bbls | Numerical |
 
 ## Dependencies
+To install these packages with conda, run the following commands:
 
 ``` console
-    conda install -c conda-forge keras
-    conda install -c anaconda pydot
+ conda install -c conda-forge pandas-profiling
+ conda install -c conda-forge keras
+ conda install -c anaconda pydot
 ```
 
 ## Contributing and Feedback
