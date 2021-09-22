@@ -1,9 +1,9 @@
-# Regression with Time Series and Neural Networks
-Project that performs the regression of a continuous variable (oil rate) from a set of associated variables using ML and DL models. The Keras framework is used to easily create a TensorFlow Neural Network and make the predictions.
+# Data Regressors
+Ongoing project that performs the regression of a continuous variable (oil rate) from a set of associated variables using different ML and DL techniques, such as linear regression, time series or neural networks.
 
 ## Analysis
 <details open>
-<summary>1. <a href="https://ansegura7.github.io/DataRegressionNN/pages/DataProfiling" target="_blank" >Data Exploration and Profiling</a></summary>
+<summary>1. <a href="https://ansegura7.github.io/DataRegressors/pages/DataProfiling" target="_blank" >Data Exploration and Profiling</a></summary>
 <ul>
 	<li>Data Exploration</li>
 	<li>Descriptive Statistics</li>
@@ -11,7 +11,7 @@ Project that performs the regression of a continuous variable (oil rate) from a 
 </ul>
 </details>
 <details open>
-<summary>2. <a href="https://ansegura7.github.io/DataRegressionNN/pages/TimeSeries" target="_blank" >Time Series</a></summary>
+<summary>2. <a href="https://ansegura7.github.io/DataRegressors/pages/TimeSeries" target="_blank" >Time Series</a></summary>
 <ul>
 	<li>Visual Analytics</li>
 	<li>Base Line</li>
@@ -22,7 +22,7 @@ Project that performs the regression of a continuous variable (oil rate) from a 
 </ul>
 </details>
 <details open>
-<summary>3. <a href="https://ansegura7.github.io/DataRegressionNN/pages/RegressionNN" target="_blank" >NN Regression</a></summary>
+<summary>3. <a href="https://ansegura7.github.io/DataRegressors/pages/RegressionNN" target="_blank" >NN Regression</a></summary>
 <ul>
 	<li>Load and show data</li>
 	<li>Prepare the data to Learn</li>
@@ -33,7 +33,7 @@ Project that performs the regression of a continuous variable (oil rate) from a 
 </ul>
 </details>
 <details open>
-<summary>4. <a href="https://ansegura7.github.io/DataRegressionNN/pages/RegressionLSTM" target="_blank" >LSTM Regression</a></summary>
+<summary>4. <a href="https://ansegura7.github.io/DataRegressors/pages/RegressionLSTM" target="_blank" >LSTM Regression</a></summary>
 <ul>
 	<li>Quick example</li>
 </ul>
@@ -71,12 +71,12 @@ To install these packages with conda, run the following commands:
 ```
 
 ## Contributing and Feedback
-Any kind of feedback/criticism would be greatly appreciated (algorithm design, documentation, improvement ideas, spelling mistakes, etc...).
+Any kind of feedback/suggestions would be greatly appreciated (algorithm design, documentation, improvement ideas, spelling mistakes, etc...). If you want to make a contribution to the course you can do it through a PR.
 
 ## Authors
 - Created by Segura Tinoco, Andrés
 - Created on Oct 4, 2019
-- Updated on Jan 8, 2021
+- Updated on Sep 22, 2021
 
 ## License
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the <a href="https://github.com/ansegura7/DataRegressors/blob/master/LICENSE">MIT license</a>.
