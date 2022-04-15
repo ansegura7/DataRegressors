@@ -1,5 +1,5 @@
 # Data Regressors
-Ongoing project that performs the regression of a continuous variable (oil rate) from a set of associated variables using different ML and DL techniques, such as linear regression, time series or neural networks.
+Ongoing project that performs the regression of a continuous variable (oil rate) from a set of associated variables using different ML and DL techniques, such as linear regression, time series, or neural networks.
 
 ## Analysis
 <details open>
@@ -22,7 +22,13 @@ Ongoing project that performs the regression of a continuous variable (oil rate)
 </ul>
 </details>
 <details open>
-<summary>3. <a href="https://ansegura7.github.io/DataRegressors/pages/RegressionNN" target="_blank" >NN Regression</a></summary>
+<summary>3. <a href="https://ansegura7.github.io/DataRegressors/pages/RandomForestR" target="_blank" >Random Forest Regression</a></summary>
+<ul>
+	<li>Quick example</li>
+</ul>
+</details>
+<details open>
+<summary>4. <a href="https://ansegura7.github.io/DataRegressors/pages/RegressionNN" target="_blank" >NN Regression</a></summary>
 <ul>
 	<li>Load and show data</li>
 	<li>Prepare the data to Learn</li>
@@ -30,12 +36,6 @@ Ongoing project that performs the regression of a continuous variable (oil rate)
     <li>Train Model</li>
     <li>Make predictions and calculate error</li>
     <li>Plot Results</li>
-</ul>
-</details>
-<details open>
-<summary>4. <a href="https://ansegura7.github.io/DataRegressors/pages/RegressionLSTM" target="_blank" >LSTM Regression</a></summary>
-<ul>
-	<li>Quick example</li>
 </ul>
 </details>
 
@@ -61,6 +61,8 @@ The dataset used is composed of a group a group of operational and PVT variables
 | 15 | WC | Operational |  | Numerical |
 | 16 | Test_Oil | Well Test | bbls | Numerical |
 
+All datasets used in this project can be viewed in this <a href="https://github.com/ansegura7/DataRegressors/tree/master/data">folder</a>.
+
 ## Dependencies
 To install these packages with conda, run the following commands:
 
@@ -76,7 +78,7 @@ Any kind of feedback/suggestions would be greatly appreciated (algorithm design,
 ## Authors
 - Created by Segura Tinoco, Andrés
 - Created on Oct 4, 2019
-- Updated on Sep 22, 2021
+- Updated on Apr 15, 2022
 
 ## License
 This project is licensed under the terms of the <a href="https://github.com/ansegura7/DataRegressors/blob/master/LICENSE">MIT license</a>.
