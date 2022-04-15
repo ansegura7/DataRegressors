@@ -1,9 +1,9 @@
 # Data Regressors
-Ongoing project that performs the regression of a continuous variable (oil rate) from a set of associated variables using different ML and DL techniques, such as linear regression, time series, or neural networks.
+Ongoing project that performs regression of a continuous variable (oil rate) from a set of associated variables using different ML and DL techniques and approaches, such as linear regression, time series, ensemble methods or neural networks.
 
 ## Analysis
 <details open>
-<summary>1. <a href="https://ansegura7.github.io/DataRegressors/pages/DataProfiling" target="_blank" >Data Exploration and Profiling</a></summary>
+<summary>1. <a href="https://ansegura7.github.io/DataRegressors/pages/DataProfiling.html" target="_blank" >Data Exploration and Profiling</a></summary>
 <ul>
 	<li>Data Exploration</li>
 	<li>Descriptive Statistics</li>
@@ -11,7 +11,7 @@ Ongoing project that performs the regression of a continuous variable (oil rate)
 </ul>
 </details>
 <details open>
-<summary>2. <a href="https://ansegura7.github.io/DataRegressors/pages/TimeSeries" target="_blank" >Time Series</a></summary>
+<summary>2. <a href="https://ansegura7.github.io/DataRegressors/pages/TimeSeries.html" target="_blank" >Time Series</a></summary>
 <ul>
 	<li>Visual Analytics</li>
 	<li>Base Line</li>
@@ -22,13 +22,13 @@ Ongoing project that performs the regression of a continuous variable (oil rate)
 </ul>
 </details>
 <details open>
-<summary>3. <a href="https://ansegura7.github.io/DataRegressors/pages/RandomForestR" target="_blank" >Random Forest Regression</a></summary>
+<summary>3. <a href="https://ansegura7.github.io/DataRegressors/pages/RandomForestR.html" target="_blank" >Random Forest Regression</a></summary>
 <ul>
 	<li>Quick example</li>
 </ul>
 </details>
 <details open>
-<summary>4. <a href="https://ansegura7.github.io/DataRegressors/pages/RegressionNN" target="_blank" >NN Regression</a></summary>
+<summary>4. <a href="https://ansegura7.github.io/DataRegressors/pages/RegressionNN.html" target="_blank" >NN Regression</a></summary>
 <ul>
 	<li>Load and show data</li>
 	<li>Prepare the data to Learn</li>
@@ -36,6 +36,12 @@ Ongoing project that performs the regression of a continuous variable (oil rate)
     <li>Train Model</li>
     <li>Make predictions and calculate error</li>
     <li>Plot Results</li>
+</ul>
+</details>
+<details open>
+<summary>5. <a href="https://ansegura7.github.io/DataRegressors/pages/LongShortTermMemory.html" target="_blank" >Random Forest Regression</a></summary>
+<ul>
+	<li>Quick example</li>
 </ul>
 </details>
 
