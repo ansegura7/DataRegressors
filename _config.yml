@@ -1,3 +1,3 @@
-title: ML & NN model to predict Oil production
-description: Project that performs the regression of a continuous variable (oil rate) from a set of associated variables using ML and DL models
+title: Data Regressors
+description: Project that performs the regression of a continuous variable (oil rate) from a set of associated variables using ML and DL methods
 theme: jekyll-theme-cayman
